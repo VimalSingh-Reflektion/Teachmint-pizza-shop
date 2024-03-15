@@ -1,0 +1,15 @@
+.order-table th,
+.order-table td {
+  border: 1px solid #000;
+  padding: 10px;
+  text-align: left;
+}
+
+.order-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.pizza-total {
+    font-weight: 600;
+}

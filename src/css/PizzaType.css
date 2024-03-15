@@ -1,0 +1,19 @@
+.form-container form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.form-container {
+  width: 50%;
+  margin: 0 0 30px 0;
+}
+
+.form-container .label {
+  font-weight: 700;
+}
+
+.select {
+  padding: 5px 10px;
+}
